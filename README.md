@@ -11,3 +11,4 @@ Kelas : SIB-1F
 | 2 | Mandiri | 4 | 0 (bukan juara) | Tidak memperoleh dana penghargaan (hanya untuk Juara 1/2/3). | Ya |
 | 3 | PKM | 4 | 1 (lolos) | Berhak memperoleh dana penghargaan (PKM lolos pendanaan). | Ya |
 | 4 | Lainnya | 4 | Tidak ditanyakan | Tidak memperoleh dana penghargaan (jenis kegiatan tidak termasuk ketentuan). | Ya |
+
